@@ -2,6 +2,8 @@
 
 An interactive Tableau dashboard that helps telecom executives explore customer churn, spot the segments most at risk, and act on retention opportunities, no data background required.
 
+![Dashboard preview](preview.png)
+
 ## Overview
 
 Acquiring a new telecom customer costs far more than keeping an existing one, yet churn erodes revenue every quarter. This dashboard turns raw customer level data into a single view that a business leader can explore on their own: who is leaving, where, and what is correlated with it.
